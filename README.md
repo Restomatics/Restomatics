@@ -1,4 +1,10 @@
-## Hi there 👋
+## © 2026 Restomatics / Anchor Point Claims LLC. All rights reserved.
+
+This repository and its contents, including code, design, branding, text,
+images, graphics, and related materials, are proprietary. No permission is
+granted to copy, modify, distribute, reproduce, or use any part of this
+repository without prior written permission from Restomatics / Anchor Point
+Claims LLC.
 
 <!--
 **Restomatics/Restomatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
